@@ -9,20 +9,20 @@
 
 # Real-Time Chat with Laravel Reverb
 
-This project is built with **Laravel 11**, **PHP 8.2**, and **Node.js 16** to provide a real-time chat experience using Laravel Reverb.
+This project is built with **Laravel 11**, **PHP 8.2**, and **Node.js 18.17** to provide a real-time chat experience using Laravel Reverb.
 
 ## Installation and Setup
 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/real-time-chat-laravel-reverb.git
+    git clone https://github.com/yourusername/real-time-chat.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd real-time-chat-laravel-reverb
+    cd real-time-chat
     ```
 
 3. **Install dependencies**:
@@ -77,8 +77,6 @@ This project is built with **Laravel 11**, **PHP 8.2**, and **Node.js 16** to pr
     php artisan reverb:start
     ```
 
-## Video Tutorial
 
-Watch the full tutorial on how to set up this project on [Riyast College](https://www.youtube.com/watch?v=-vCqN1nkt18&list=PLh6u0mdhcxha1f4Zke3rVU-vY-qndN4ta).
 
 
